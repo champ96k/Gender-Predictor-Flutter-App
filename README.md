@@ -1,13 +1,7 @@
 # Gender Gredictor
 
-Gender Predictor created in Flutter 
-
-
-
 
 ![Screenshot](https://i.imgur.com/c4gsVC2.jpg)
-
-
 
 
 
